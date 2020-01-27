@@ -1,0 +1,2 @@
+# ChickenDetector
+It detects chickens
